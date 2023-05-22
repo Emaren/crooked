@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "95922238238",
+    "project_id": "crooked-4d641",
+    "storage_bucket": "crooked-4d641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95922238238:android:b58122c5892fbe70dc4f0f",
+        "android_client_info": {
+          "package_name": "com.example.crooked"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95922238238-ir0pd2t19ur894nhks5f19nfp9r9es63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqno7uRKWqw_z2DQy_AKT5FRUM9jkIAWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95922238238-ir0pd2t19ur894nhks5f19nfp9r9es63.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "95922238238-2spa81i63gktmkmatdadkre056th2oad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emaren.crooked"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
